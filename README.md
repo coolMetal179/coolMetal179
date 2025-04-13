@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coolMetal179
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working in scratch
 - ⚡ Fun fact: i like to learn assembly one day!
 
 <!---
